@@ -90,7 +90,7 @@ if you want to use autocomplete (tested in JetBrains IDE) add PHPDoc above varia
 ```php
 
 /**
- * @var \My\Service\Namespace\Example $serivce
+ * @var \My\Service\Namespace\Example $service
  */
 $service = $this->getService("Example");
              
